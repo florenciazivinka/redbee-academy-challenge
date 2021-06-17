@@ -1,4 +1,4 @@
-# Función que recive dos números y me devuelve la totalidad del mismo
+# Función que recibe dos números y me devuelve la totalidad del mismo
 
 def suma(num1,num2):
     
